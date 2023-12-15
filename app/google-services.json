@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583072597394",
+    "project_id": "my-application-1bb0e",
+    "storage_bucket": "my-application-1bb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583072597394:android:acfb5b183441e1e2096d4b",
+        "android_client_info": {
+          "package_name": "com.kononenko.kp32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh298-r3FBi-sJP6fImi0oPUCodoZpXl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
